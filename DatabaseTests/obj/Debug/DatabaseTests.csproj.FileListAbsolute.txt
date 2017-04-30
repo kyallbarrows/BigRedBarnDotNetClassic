@@ -1,0 +1,16 @@
+C:\Development\BigRedBarnDotNetClassic\DatabaseTests\bin\Debug\DatabaseTests.dll.config
+C:\Development\BigRedBarnDotNetClassic\DatabaseTests\bin\Debug\DatabaseTests.dll
+C:\Development\BigRedBarnDotNetClassic\DatabaseTests\bin\Debug\DatabaseTests.pdb
+C:\Development\BigRedBarnDotNetClassic\DatabaseTests\bin\Debug\Databasery.dll
+C:\Development\BigRedBarnDotNetClassic\DatabaseTests\bin\Debug\EntityFramework.dll
+C:\Development\BigRedBarnDotNetClassic\DatabaseTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development\BigRedBarnDotNetClassic\DatabaseTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Development\BigRedBarnDotNetClassic\DatabaseTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Development\BigRedBarnDotNetClassic\DatabaseTests\bin\Debug\Databasery.pdb
+C:\Development\BigRedBarnDotNetClassic\DatabaseTests\bin\Debug\EntityFramework.xml
+C:\Development\BigRedBarnDotNetClassic\DatabaseTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development\BigRedBarnDotNetClassic\DatabaseTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Development\BigRedBarnDotNetClassic\DatabaseTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Development\BigRedBarnDotNetClassic\DatabaseTests\obj\Debug\DatabaseTests.csprojResolveAssemblyReference.cache
+C:\Development\BigRedBarnDotNetClassic\DatabaseTests\obj\Debug\DatabaseTests.dll
+C:\Development\BigRedBarnDotNetClassic\DatabaseTests\obj\Debug\DatabaseTests.pdb

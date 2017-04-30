@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigRedBarnDotNetClassic", "BigRedBarnDotNetClassic\BigRedBarnDotNetClassic.csproj", "{241FD548-6D14-4DFB-829F-A9D3E11A5249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Databasery", "Databasery\Databasery.csproj", "{99845BC2-18EE-4C67-BA5B-F022A5AF8CB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseTests", "DatabaseTests\DatabaseTests.csproj", "{649FCF7C-665F-4B05-BAB2-F58BA6DDC29B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{241FD548-6D14-4DFB-829F-A9D3E11A5249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241FD548-6D14-4DFB-829F-A9D3E11A5249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241FD548-6D14-4DFB-829F-A9D3E11A5249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241FD548-6D14-4DFB-829F-A9D3E11A5249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99845BC2-18EE-4C67-BA5B-F022A5AF8CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99845BC2-18EE-4C67-BA5B-F022A5AF8CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99845BC2-18EE-4C67-BA5B-F022A5AF8CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99845BC2-18EE-4C67-BA5B-F022A5AF8CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{649FCF7C-665F-4B05-BAB2-F58BA6DDC29B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{649FCF7C-665F-4B05-BAB2-F58BA6DDC29B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{649FCF7C-665F-4B05-BAB2-F58BA6DDC29B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{649FCF7C-665F-4B05-BAB2-F58BA6DDC29B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Development\BigRedBarnDotNetClassic\Databasery\bin\Debug\Databasery.dll.config
+C:\Development\BigRedBarnDotNetClassic\Databasery\bin\Debug\Databasery.dll
+C:\Development\BigRedBarnDotNetClassic\Databasery\bin\Debug\Databasery.pdb
+C:\Development\BigRedBarnDotNetClassic\Databasery\bin\Debug\EntityFramework.dll
+C:\Development\BigRedBarnDotNetClassic\Databasery\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development\BigRedBarnDotNetClassic\Databasery\bin\Debug\nunit.framework.dll
+C:\Development\BigRedBarnDotNetClassic\Databasery\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Development\BigRedBarnDotNetClassic\Databasery\bin\Debug\EntityFramework.xml
+C:\Development\BigRedBarnDotNetClassic\Databasery\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development\BigRedBarnDotNetClassic\Databasery\bin\Debug\nunit.framework.xml
+C:\Development\BigRedBarnDotNetClassic\Databasery\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Development\BigRedBarnDotNetClassic\Databasery\obj\Debug\Databasery.dll
+C:\Development\BigRedBarnDotNetClassic\Databasery\obj\Debug\Databasery.pdb
